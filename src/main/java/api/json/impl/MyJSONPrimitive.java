@@ -1,4 +1,4 @@
-package impl;
+package api.json.impl;
 
 import api.json.JSONPrimitive;
 
